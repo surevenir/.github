@@ -1,4 +1,4 @@
-# Surevenir: Scan and Buy Souvenir Easily
+# Surevenir: Tourist Friendly, Scam Free
 
 Inspired by observing tourists in Bali struggling with language barriers and unreliable information when buying souvenirs, we developed Surevenir This app acts as a bridge between travelers and Balinese craftsmanship, ensuring informed, meaningful, and fairly priced purchases. Users can scan items to uncover their significance, authenticity, and the impact on supporting local artisans. Our goal is to enhance travel experiences, promote ethical shopping, support the local economy, and help preserve Balinese cultural heritage for future generations.
 
