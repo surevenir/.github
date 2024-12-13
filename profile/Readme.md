@@ -35,8 +35,4 @@ We have both on-device and live-action demo videos. Check them out below!
 | Cloud Computing    | [Backend](https://github.com/surevenir/surevenir-cc) \| [Predict ML](https://github.com/surevenir/surevenir-predict-api) \| [Web](https://github.com/surevenir/surevenir-web) |
 | Machine Learning   | [Model](https://github.com/surevenir/surevenir-ml) \| [Dataset](https://github.com/surevenir/surevenir-ml/tree/main/dataset)                                                                      |
 
-## Documents
-
-`TODO`
-
 ## Thank You
