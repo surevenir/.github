@@ -1,5 +1,6 @@
 # Surevenir: Tourist Friendly, Scam Free
 
+![PPT Capstone - C242-PS053 ](https://github.com/user-attachments/assets/0ada0587-e9f7-43fc-8dc9-1b03cd8bb8df)
 Inspired by observing tourists in Bali struggling with language barriers and unreliable information when buying souvenirs, we developed Surevenir. This app acts as a bridge between tourists and Balinese local sellers, ensuring informed, meaningful, and fairly priced purchases. Users can scan items to uncover their significance, authenticity, and the impact on supporting local sellers. Our goal is to enhance travel experiences, promote ethical shopping, support the local economy, and help preserve Balinese cultural heritage for future generations.
 
 ## Team Members
