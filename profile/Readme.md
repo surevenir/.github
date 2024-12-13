@@ -7,13 +7,11 @@ Inspired by observing tourists in Bali struggling with language barriers and unr
 
 We have both on-device and live-action demo videos. Check them out below!
 
-### On Device
-
-[![On Device Live Action Demo](https://img.youtube.com/vi/tHB2QUlXSO0/0.jpg)](https://www.youtube.com/watch?v=tHB2QUlXSO0)
-
-### Live Action
-
-[![Live Action Demo](https://img.youtube.com/vi/FlkcaorMKwc/0.jpg)](https://www.youtube.com/watch?v=FlkcaorMKwc)
+| Type         | URL                                     |
+| :----------- | :-------------------------------------- |
+| Presentation | [Youtube](https://youtu.be/rqTjRqwa-eg) |
+| On Device    | [Youtube](https://youtu.be/tHB2QUlXSO0) |
+| Live Action  | [Youtube](https://youtu.be/FlkcaorMKwc) |
 
 ## Team Members
 
@@ -33,6 +31,6 @@ We have both on-device and live-action demo videos. Check them out below!
 | :----------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Mobile Development | [Android](https://github.com/surevenir/surevenir-md)                                                                                                                          |
 | Cloud Computing    | [Backend](https://github.com/surevenir/surevenir-cc) \| [Predict ML](https://github.com/surevenir/surevenir-predict-api) \| [Web](https://github.com/surevenir/surevenir-web) |
-| Machine Learning   | [Model](https://github.com/surevenir/surevenir-ml) \| [Dataset](https://github.com/surevenir/surevenir-ml/tree/main/dataset)                                                                      |
+| Machine Learning   | [Model](https://github.com/surevenir/surevenir-ml) \| [Dataset](https://github.com/surevenir/surevenir-ml/tree/main/dataset)                                                  |
 
 ## Thank You
